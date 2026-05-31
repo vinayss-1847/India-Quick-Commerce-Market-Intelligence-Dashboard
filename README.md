@@ -11,7 +11,7 @@ Power BI dashboard benchmarking **Blinkit** and **Instamart** across growth, pro
 
 # Dashboard Preview
 
-![Dashboard Overview](Dashboard%20Screenshots/Page%201.png)
+![Executive Summary](India%20Quick%20Commerce%20Market%20Intelligence%20Dashboard/Dashboard%20Screenshots/Page%201.png)
 
 ---
 
@@ -78,7 +78,7 @@ This project aims to answer key business questions:
 
 ## 1. Executive Summary
 
-![Executive Summary](Dashboard%20Screenshots/Page%201.png)
+![Executive Summary](India%20Quick%20Commerce%20Market%20Intelligence%20Dashboard/Dashboard%20Screenshots/Page%201.png)
 
 ### Key Questions Answered
 
@@ -91,7 +91,7 @@ This project aims to answer key business questions:
 
 ## 2. Competitive Benchmarking
 
-![Competitive Benchmarking](Dashboard%20Screenshots/Page%202.png)
+![Competitive Benchmarking](India%20Quick%20Commerce%20Market%20Intelligence%20Dashboard/Dashboard%20Screenshots/Page%202.png)
 
 ### Key Questions Answered
 
@@ -104,7 +104,7 @@ This project aims to answer key business questions:
 
 ## 3. Regional & City Performance
 
-![Regional & City Performance](Dashboard%20Screenshots/Page%203.png)
+![Regional & City Performance](India%20Quick%20Commerce%20Market%20Intelligence%20Dashboard/Dashboard%20Screenshots/Page%203.png)
 
 ### Key Questions Answered
 
@@ -117,7 +117,7 @@ This project aims to answer key business questions:
 
 ## 4. Product & Category Performance
 
-![Product & Category Performance](Dashboard%20Screenshots/Page%204.png)
+![Product & Category Performance](India%20Quick%20Commerce%20Market%20Intelligence%20Dashboard/Dashboard%20Screenshots/Page%204.png)
 
 ### Key Questions Answered
 
@@ -130,7 +130,7 @@ This project aims to answer key business questions:
 
 ## 5. Strategy & Expansion Recommendations
 
-![Strategy & Expansion Recommendations](Dashboard%20Screenshots/Page%205.png)
+![Strategy & Expansion Recommendations](India%20Quick%20Commerce%20Market%20Intelligence%20Dashboard/Dashboard%20Screenshots/Page%205.png)
 
 ### Key Questions Answered
 
@@ -143,7 +143,7 @@ This project aims to answer key business questions:
 
 ## 6. What-If Scenario Analysis
 
-![What-If Scenario Analysis](Dashboard%20Screenshots/Page%206.png)
+![What-If Scenario Analysis](India%20Quick%20Commerce%20Market%20Intelligence%20Dashboard/Dashboard%20Screenshots/Page%206.png)
 
 ### Key Questions Answered
 
