@@ -258,7 +258,7 @@ The dashboard combines descriptive, diagnostic, and scenario-based analytics to 
 
 **Vinay S S**
 
-Business Analyst | Power BI Developer | Data Analytics Enthusiast
+Aspiring Business Analyst | Power BI Developer | Data Analytics Enthusiast
 
 ### Connect With Me
 
